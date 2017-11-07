@@ -11,10 +11,10 @@ baseurl: "/Giyber.github.io"         # for example, '/blog' if your blog hosted 
 
 
 # SNS settings
-RSS: false
-weibo_username: Giyber
+RSS: Ture
+weibo_username:       Giyber
+github_username:      Giyber
 #zhihu_username:
-github_username:  Giyber
 #twitter_username:
 #facebook_username:
 
