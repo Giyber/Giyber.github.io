@@ -1,7 +1,7 @@
 ﻿# Site settings
 title: Giyber Blog
 SEOTitle: LC的博客 | LC Blog
-header-img: img/home-bg.jpg
+header-img: img/home.jpg
 email: yemaowuxin@163.com
 description: ""
 keyword: ""
@@ -12,7 +12,7 @@ baseurl: "/Giyber.github.io"         # for example, '/blog' if your blog hosted 
 
 # SNS settings
 RSS: false
-#weibo_username:
+weibo_username: Giyber
 #zhihu_username:
 github_username:  Giyber
 #twitter_username:
