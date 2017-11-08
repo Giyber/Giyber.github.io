@@ -85,16 +85,16 @@ friends: [
         title: "Jiangfan Blog",
         href: "https://hezy94.github.io/"
     },{
-        title: "Foo",
+        title: "",
         href: "#"
     },{
-        title: "Bar",
+        title: "",
         href: "#"
     },{
-        title: "Example Friends",
+        title: "",
         href: "#"
     },{
-        title: "It helps SEO",
+        title: "",
         href: "#"
     }
 ]
